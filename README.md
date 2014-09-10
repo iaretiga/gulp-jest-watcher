@@ -1,4 +1,4 @@
-Gulp tasks to run Jest unit tests (single run + auto run on change)
+[Gulp](http://gulpjs.com/) tasks to run [Jest](http://facebook.github.io/jest/) unit tests (single run + auto run on change)
 
 ## You don't need a Gulp Plugin for Jest
 
