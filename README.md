@@ -21,3 +21,7 @@ There is a task for that:
 `gulp tdd`
 
 Make sure your task is correctly set up to watch all source __and__ test files.
+
+## How to use it with React.js
+
+See this [tutorial](http://facebook.github.io/jest/docs/tutorial-react.html).
