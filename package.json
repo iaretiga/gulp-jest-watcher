@@ -1,0 +1,23 @@
+{
+  "name": "gulp-jest-watcher",
+  "version": "0.0.1",
+  "description": "Gulp tasks to run Jest unit tests (single run + auto run on change)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iaretiga/gulp-jest-watcher.git"
+  },
+  "author": "Zsolt Geresdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaretiga/gulp-jest-watcher/issues"
+  },
+  "homepage": "https://github.com/iaretiga/gulp-jest-watcher",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "jest-cli": "^0.1.18"
+  }
+}
